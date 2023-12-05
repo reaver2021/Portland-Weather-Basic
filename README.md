@@ -1,1 +1,3 @@
 # Portland-Weather-Basic
+
+This is a basic weather app, built for my Sirius XM Radio Internship interview. Using the OpenWeather API, running this python script will print the weather in Portland, Oregon to a Discord text Channel. I chose Discord as it was the Chat App most available to me. For other users, to post to their own Discord channel, a new Discord Web Hook will have to be generated through their own system.
